@@ -1,0 +1,19 @@
+{
+  "name": "encrypt-files",
+  "version": "1.0.0",
+  "description": "encrypt passwords",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B.Mohamed",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "tslib": "^2.4.1"
+  },
+  "dependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "crypto-js": "^4.1.1"
+  }
+}
