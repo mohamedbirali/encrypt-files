@@ -13,7 +13,7 @@ make sure that you have installed Typescript.
 example : `export const key_enc = 'myEncryptionKey';`
 
 Put the text you want to encrypt in the `origin-text/passwords.txt` <br>
-or just just change the path variables in the `index.js`.
+or just just change the path variables in the `index.ts`.
 
-run `ts-node index.js`
+run `ts-node index.ts`
 ___________________________________________
